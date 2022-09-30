@@ -32,4 +32,4 @@
   <a href="https://www.linkedin.com/in/luis-gustavo-vasconcelos-128552239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-    ![Snake animation](https://github.com/LuisVasconcelos0713/LuisVasconcelos0713/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuisVasconcelos0713/LuisVasconcelos0713/blob/output/github-contribution-grid-snake.svg)
