@@ -1,7 +1,7 @@
 ### Hi there i'm Luis Gustavo 👋
 
 - 🔭 Looking for a first opportunity 
-- 🌱 Learning Javascript
+- 🌱 Learning React JS
 
 ##
 
